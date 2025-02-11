@@ -1,7 +1,7 @@
 import sys
 from src.arg_parser import parse_arguments
 from src.json_split_manager import load_split_info
-from src.model import setup_pose_model
+from src.model_init import setup_pose_model
 from src.video_processing.video_pipeline import process_videos_in_folder
 
 
