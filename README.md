@@ -1,1 +1,1 @@
-# Tooling for RTMPose Keypoint extraction
+# Tooling for Keypoint extraction
