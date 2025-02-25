@@ -1,1 +1,1 @@
-# Tooling for Keypoint extraction
+# Tooling for pose estimation keypoint extraction
